@@ -1,3 +1,10 @@
+New Version can be found by following the link
+https://maximum404.itch.io/chatgpt-ai-livestream-chat
+
+
+
+
+
 
 This code is designed for small streamers who want to maintain an active chat environment on their livestreams even when the actual chat is quiet. It leverages Python and ChatGPT to achieve this functionality.
 
